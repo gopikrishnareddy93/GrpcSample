@@ -1,0 +1,14 @@
+E:\Workspace\Github\GrpcSample\GrpcSample.Client\bin\Debug\netcoreapp2.1\GrpcSample.Client.deps.json
+E:\Workspace\Github\GrpcSample\GrpcSample.Client\bin\Debug\netcoreapp2.1\GrpcSample.Client.runtimeconfig.json
+E:\Workspace\Github\GrpcSample\GrpcSample.Client\bin\Debug\netcoreapp2.1\GrpcSample.Client.runtimeconfig.dev.json
+E:\Workspace\Github\GrpcSample\GrpcSample.Client\bin\Debug\netcoreapp2.1\GrpcSample.Client.dll
+E:\Workspace\Github\GrpcSample\GrpcSample.Client\bin\Debug\netcoreapp2.1\GrpcSample.Client.pdb
+E:\Workspace\Github\GrpcSample\GrpcSample.Client\bin\Debug\netcoreapp2.1\GrpcSample.Shared.dll
+E:\Workspace\Github\GrpcSample\GrpcSample.Client\bin\Debug\netcoreapp2.1\GrpcSample.Shared.pdb
+E:\Workspace\Github\GrpcSample\GrpcSample.Client\obj\Debug\netcoreapp2.1\GrpcSample.Client.csprojAssemblyReference.cache
+E:\Workspace\Github\GrpcSample\GrpcSample.Client\obj\Debug\netcoreapp2.1\GrpcSample.Client.csproj.CoreCompileInputs.cache
+E:\Workspace\Github\GrpcSample\GrpcSample.Client\obj\Debug\netcoreapp2.1\GrpcSample.Client.AssemblyInfoInputs.cache
+E:\Workspace\Github\GrpcSample\GrpcSample.Client\obj\Debug\netcoreapp2.1\GrpcSample.Client.AssemblyInfo.cs
+E:\Workspace\Github\GrpcSample\GrpcSample.Client\obj\Debug\netcoreapp2.1\GrpcSample.Client.csproj.CopyComplete
+E:\Workspace\Github\GrpcSample\GrpcSample.Client\obj\Debug\netcoreapp2.1\GrpcSample.Client.dll
+E:\Workspace\Github\GrpcSample\GrpcSample.Client\obj\Debug\netcoreapp2.1\GrpcSample.Client.pdb

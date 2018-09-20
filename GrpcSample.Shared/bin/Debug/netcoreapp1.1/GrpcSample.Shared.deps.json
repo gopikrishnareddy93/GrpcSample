@@ -1,0 +1,184 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v1.1",
+    "signature": "1a0b133b7b7cf4541a3883341d18777de9cc14d7"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v1.1": {
+      "GrpcSample.Shared/1.0.0": {
+        "dependencies": {
+          "Bond.CSharp": "5.2.0",
+          "Grpc.Core": "1.2.0"
+        },
+        "runtime": {
+          "GrpcSample.Shared.dll": {}
+        }
+      },
+      "Bond.Core.CSharp/5.2.0": {
+        "runtime": {
+          "lib/netstandard1.6/Bond.Attributes.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          },
+          "lib/netstandard1.6/Bond.IO.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          },
+          "lib/netstandard1.6/Bond.Reflection.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          },
+          "lib/netstandard1.6/Bond.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Bond.CSharp/5.2.0": {
+        "dependencies": {
+          "Bond.Core.CSharp": "5.2.0",
+          "Bond.Runtime.CSharp": "5.2.0"
+        }
+      },
+      "Bond.Runtime.CSharp/5.2.0": {
+        "dependencies": {
+          "Bond.Core.CSharp": "5.2.0",
+          "Newtonsoft.Json": "9.0.1"
+        },
+        "runtime": {
+          "lib/netstandard1.6/Bond.JSON.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Grpc.Core/1.2.0": {
+        "dependencies": {
+          "System.Interactive.Async": "3.1.1"
+        },
+        "runtime": {
+          "lib/netstandard1.5/Grpc.Core.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.2.0.0"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/linux/native/libgrpc_csharp_ext.x64.so": {
+            "rid": "linux",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/linux/native/libgrpc_csharp_ext.x86.so": {
+            "rid": "linux",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/osx/native/libgrpc_csharp_ext.x64.dylib": {
+            "rid": "osx",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/osx/native/libgrpc_csharp_ext.x86.dylib": {
+            "rid": "osx",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/win/native/grpc_csharp_ext.x64.dll": {
+            "rid": "win",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/win/native/grpc_csharp_ext.x86.dll": {
+            "rid": "win",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          }
+        }
+      },
+      "Newtonsoft.Json/9.0.1": {
+        "dependencies": {
+          "System.Runtime.Serialization.Primitives": "4.1.1"
+        },
+        "runtime": {
+          "lib/netstandard1.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "9.0.0.0",
+            "fileVersion": "9.0.1.19813"
+          }
+        }
+      },
+      "System.Interactive.Async/3.1.1": {
+        "runtime": {
+          "lib/netstandard1.3/System.Interactive.Async.dll": {
+            "assemblyVersion": "3.0.3000.0",
+            "fileVersion": "3.1.1.0"
+          }
+        }
+      },
+      "System.Runtime.Serialization.Primitives/4.1.1": {
+        "runtime": {
+          "lib/netstandard1.3/System.Runtime.Serialization.Primitives.dll": {
+            "assemblyVersion": "4.1.1.0",
+            "fileVersion": "1.0.24212.1"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GrpcSample.Shared/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Bond.Core.CSharp/5.2.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-B4z4WF9FmdObF6TlJuKeiEIE4QKM10pdho6y6GyAgQj6FxqVUnr86pa3P7LlUiYarYwW9oG/exdxyVcOMDmg7Q==",
+      "path": "bond.core.csharp/5.2.0",
+      "hashPath": "bond.core.csharp.5.2.0.nupkg.sha512"
+    },
+    "Bond.CSharp/5.2.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ecueITU5s5+2EmpLGBfydiGptDvf5rs1gyK6eSEPL6x9WjHqSac6qSTUm3tXdYmcGZivUOyBYqDPt/53VZyjkg==",
+      "path": "bond.csharp/5.2.0",
+      "hashPath": "bond.csharp.5.2.0.nupkg.sha512"
+    },
+    "Bond.Runtime.CSharp/5.2.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-6q3wYMrdMRW3xalUUIXC+WOB7XZi2HZzcO8wbAW2dct6Z2EgS9EpPmSJurdmSW66XzaD4G4W9eJiEfa8ALFC4g==",
+      "path": "bond.runtime.csharp/5.2.0",
+      "hashPath": "bond.runtime.csharp.5.2.0.nupkg.sha512"
+    },
+    "Grpc.Core/1.2.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-iU15+V9VAf6WVBf7OOK89MBDL6V3Ll3TL0YzMigoKPW93YpsMcCn4qMVH1aF6B3qB5RtUidJz3PRE9VoUIgMBw==",
+      "path": "grpc.core/1.2.0",
+      "hashPath": "grpc.core.1.2.0.nupkg.sha512"
+    },
+    "Newtonsoft.Json/9.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-U82mHQSKaIk+lpSVCbWYKNavmNH1i5xrExDEquU1i6I5pV6UMOqRnJRSlKO3cMPfcpp0RgDY+8jUXHdQ4IfXvw==",
+      "path": "newtonsoft.json/9.0.1",
+      "hashPath": "newtonsoft.json.9.0.1.nupkg.sha512"
+    },
+    "System.Interactive.Async/3.1.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-I3aKsCVcBXfP1fMV2XPwxa3Sk/wTTmoE5Cn2/gnC8iKJuWqRuBDX8yn75KXSHpwZ3viINVic+D2toEB6RSKjpw==",
+      "path": "system.interactive.async/3.1.1",
+      "hashPath": "system.interactive.async.3.1.1.nupkg.sha512"
+    },
+    "System.Runtime.Serialization.Primitives/4.1.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-xNSHU4Io+Yn7A49y/hOKwuxbLBKQGqUPiY1GDJUVeGdLQjxKzfEdTevfiRTmLcsNuBzQAG4FvcB/JAgs9+zmpg==",
+      "path": "system.runtime.serialization.primitives/4.1.1",
+      "hashPath": "system.runtime.serialization.primitives.4.1.1.nupkg.sha512"
+    }
+  }
+}

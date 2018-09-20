@@ -1,0 +1,9 @@
+E:\Workspace\Github\GrpcSample\GrpcSample.Shared\bin\Debug\netcoreapp1.1\GrpcSample.Shared.deps.json
+E:\Workspace\Github\GrpcSample\GrpcSample.Shared\bin\Debug\netcoreapp1.1\GrpcSample.Shared.dll
+E:\Workspace\Github\GrpcSample\GrpcSample.Shared\bin\Debug\netcoreapp1.1\GrpcSample.Shared.pdb
+E:\Workspace\Github\GrpcSample\GrpcSample.Shared\obj\Debug\netcoreapp1.1\GrpcSample.Shared.csprojAssemblyReference.cache
+E:\Workspace\Github\GrpcSample\GrpcSample.Shared\obj\Debug\netcoreapp1.1\GrpcSample.Shared.csproj.CoreCompileInputs.cache
+E:\Workspace\Github\GrpcSample\GrpcSample.Shared\obj\Debug\netcoreapp1.1\GrpcSample.Shared.AssemblyInfoInputs.cache
+E:\Workspace\Github\GrpcSample\GrpcSample.Shared\obj\Debug\netcoreapp1.1\GrpcSample.Shared.AssemblyInfo.cs
+E:\Workspace\Github\GrpcSample\GrpcSample.Shared\obj\Debug\netcoreapp1.1\GrpcSample.Shared.dll
+E:\Workspace\Github\GrpcSample\GrpcSample.Shared\obj\Debug\netcoreapp1.1\GrpcSample.Shared.pdb
